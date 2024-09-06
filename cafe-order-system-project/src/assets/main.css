@@ -1,0 +1,15 @@
+* {
+  font-family: "Noto Sans KR", sans-serif;
+  list-style: none;
+}
+
+ul {
+  padding-left: 0;
+}
+
+:root {
+  --main-primary-color : #1b3c35;
+  --main-secondary-color : #142520;
+  --hyper-color : #82c6ab;
+  --white : #FFFFFF;
+}
