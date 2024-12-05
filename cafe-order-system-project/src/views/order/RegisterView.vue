@@ -1,7 +1,7 @@
 <script setup>
 import { useRoute, useRouter } from "vue-router";
 import { useCommonStore } from "@/stores/common.js";
-import backButton from "@/components/BackButton.vue";
+import backButton from "@/components/backButton.vue";
 
 const route = useRoute();
 const router = useRouter();
